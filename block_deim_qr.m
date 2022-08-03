@@ -1,4 +1,9 @@
-function irow = cur_deim_block_QR(U, k, p)
+function irow = block_deim_qr(U, k, p)
+% U is singular vectors
+% k desired number of indices
+% p block size
+% Revision date: June 18, 2022
+% (C) Perfect Gidisu, Michiel Hochstenbach 2022
 
 if nargin < 3|| isempty(p), p = 2; end
 
