@@ -4,7 +4,7 @@ function index = adap_blk_maxvol(U,k,p,rho,tol)
 % p block size
 % rho evaluation criteria for switch between standard and block deim
 % tol stopping cirteria for maxvol algorithm 
-% see also deim and block_maxvol
+% see also deim and block_deim_maxvol
 % Revision date: June 18, 2022
 % (C) Perfect Gidisu, Michiel Hochstenbach 2022
 
