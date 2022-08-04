@@ -1,6 +1,6 @@
 # Block-discrete-empirical-interpolation-methods
 
-The codes are matlab implementations of the block variants of discrete empirical interpolation method. For detailed explanation of the algorithms please see
+The codes are matlab implementations of the block variants of discrete empirical interpolation method. For detailed explanation of the algorithms please see https://arxiv.org/abs/2208.02213
 
 
 From the above paper
